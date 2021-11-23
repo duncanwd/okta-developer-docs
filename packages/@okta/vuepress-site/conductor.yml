@@ -3799,3 +3799,31 @@ redirects:
     to: /docs/guides/revoke-tokens/main/#revoke-an-access-token-or-a-refresh-token
   - from: /docs/guides/revoke-tokens/removeusersess/index.html
     to: /docs/guides/revoke-tokens/main/#remove-a-user-session
+  - from: /docs/guides/validate-access-tokens/-/overview
+    to: /docs/guides/validate-access-tokens/
+  - from: /docs/guides/validate-access-tokens/-/overview/index.html
+    to: /docs/guides/validate-access-tokens/
+  - from: /docs/guides/validate-access-tokens/dotnet/overview
+    to: /docs/guides/validate-access-tokens/dotnet/main/
+  - from: /docs/guides/validate-access-tokens/dotnet/overview/index.html
+    to: /docs/guides/validate-access-tokens/dotnet/main/
+  - from: /docs/guides/validate-access-tokens/go/overview
+    to: /docs/guides/validate-access-tokens/go/main/
+  - from: /docs/guides/validate-access-tokens/go/overview/index.html
+    to: /docs/guides/validate-access-tokens/go/main/
+  - from: /docs/guides/validate-access-tokens/java/overview
+    to: /docs/guides/validate-access-tokens/java/main/
+  - from: /docs/guides/validate-access-tokens/java/overview/index.html
+    to: /docs/guides/validate-access-tokens/java/main/
+  - from: /docs/guides/validate-access-tokens/nodejs/overview
+    to: /docs/guides/validate-access-tokens/nodejs/main/
+  - from: /docs/guides/validate-access-tokens/nodejs/overview/index.html
+    to: /docs/guides/validate-access-tokens/nodejs/main/
+  - from: /docs/guides/validate-access-tokens/php/overview
+    to: /docs/guides/validate-access-tokens/php/main/
+  - from: /docs/guides/validate-access-tokens/php/overview/index.html
+    to: /docs/guides/validate-access-tokens/php/main/
+  - from: /docs/guides/validate-access-tokens/python/overview
+    to: /docs/guides/validate-access-tokens/python/main/
+  - from: /docs/guides/validate-access-tokens/python/overview/index.html
+    to: /docs/guides/validate-access-tokens/python/main/
